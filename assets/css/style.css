@@ -1,0 +1,114 @@
+#jumbotron-bg{
+    background-image: url(../images/Lencois-waves.jpg);
+    background-size: cover;
+    height: 350px;
+    border-radius: 4px;
+}
+
+#jumbotron-style{
+    margin: 15px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+#rua-portugal{
+
+    border-radius: 4px;
+}
+
+#riachao{
+    border-radius: 4px;
+}
+
+#pescadores{
+    border-radius: 4px;
+}
+
+#view-more{
+    border: solid;
+    border-radius: 4px;
+    border-color: black;
+    border-width: thin;
+
+}
+
+#container-vm{
+    margin-top: 20px;
+}
+
+.lines{
+    width: 80%;
+}
+
+#dean-pic{
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+#uli{
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.card-deck{
+    margin-top: 30px;
+    width: 960px;
+}
+
+.card{
+    border-radius: 4px;
+}
+
+#footer{
+    background-color: #D8D7D7;
+    border-color: #95A1A4;
+    border: solid;
+    border-width: thin;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 30px;
+    padding-bottom: 8px;
+    margin-bottom: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+@media screen and (max-width: 767px) {
+    #mobile-space1 {margin-top:10px;}
+    }
+
+@media screen and (max-width: 767px) {
+        #mobile-space2 {margin-top:10px;}
+        }
+
+.links{
+    color: inherit; 
+}
+
+.display-4{
+    font-family: 'Neucha', cursive;
+    font-size: 60px;
+}
+
+#welcome{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#dc-2{
+    height: 425px;
+    border-radius: 4px;
+}
+
+.media-body{
+    margin-left: 10px;
+}
+
+#about-us{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 30px;
+}
+
